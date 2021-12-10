@@ -125,7 +125,7 @@ body
 .download
 {
     display: flex;
-    width: 100%;
+    width: 90%;
     justify-content: space-evenly;
     align-items: center;
     padding: 1rem;
